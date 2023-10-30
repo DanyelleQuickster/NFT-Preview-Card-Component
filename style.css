@@ -54,7 +54,7 @@ body {
 }
 
 .container .image:hover::before {
-  content: url(./images/icon-view.svg);
+  content: url(./icon-view.svg);
   background: hsla(178, 100%, 50%, 0.438);
 }
 
